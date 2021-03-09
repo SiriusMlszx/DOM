@@ -101,7 +101,7 @@ window.dom.on(node, eventName, fn)
 ### 删除node的事件
 
 ```js
-window.dom.off(node, name, value)
+window.dom.off(node, eventName, fn)
 ```
 
 ### 获取标签或者标签们
